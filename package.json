@@ -37,7 +37,7 @@
     "errorhandler": "^1.5.0",
     "express": "^4.16.2",
     "express-session": "^1.15.5",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^3.9.3",
     "gulp-develop-server": "^0.5.2",
     "gulp-uglify": "^3.0.0",
